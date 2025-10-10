@@ -14,7 +14,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that uses **Google Gemini** for L
 ```bash
 # Clone repo
 git clone https://github.com/<your-username>/CustomRAGChatbot.git
-cd CustomRAG
+cd CustomRAGChatbot
 
 # Create virtual env and install deps
 python -m venv .venv
