@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Streamlit cache
+.streamlit/
+
+# Chroma vector DB
+chroma_db/
+
+# Temporary files
+*.tmp
+*.bak
+temp/
